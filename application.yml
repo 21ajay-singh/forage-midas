@@ -1,0 +1,7 @@
+# application.yml
+general:
+  kafka-topic: my-topic
+
+spring:
+  kafka:
+    bootstrap-servers: localhost:9092
